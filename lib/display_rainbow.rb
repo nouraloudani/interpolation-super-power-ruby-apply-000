@@ -1,7 +1,7 @@
 
 def display_rainbow()
-  puts "#{display_rainbow[0]}"
-  puts "#{display_rainbow[1]}"
+  puts "#{colors[0]}"
+  puts "#{colors[1]}"
   puts "#{display_rainbow[2]}"
   puts "#{display_rainbow[3]}"
   puts "#{display_rainbow[4]}"
