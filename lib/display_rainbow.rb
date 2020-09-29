@@ -1,5 +1,4 @@
 
-
 def display_rainbow()
   puts "#{display_rainbow[0]}"
   puts "#{display_rainbow[1]}"
